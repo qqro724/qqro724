@@ -35,10 +35,11 @@
 <div align="center" dir="auto">
     <a href="mailto:bbaddiction0724@gmail.com">
         <img src="https://camo.githubusercontent.com/5d033fa78ec1873aecead8727e4f37cce06868720f5722fc1874bf9064291330/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d4431343833363f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f696e7374616772616d2e636f6d2f6c65656a6965756e73322f" data-canonical-src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;link=https://instagram.com/rlarkdms724/" style="max-width: 100%;">
-    <!--</a>-->
-    <!--<a href="https://instagram.com/rlarkdms724" rel="nofollow-->
+    </a>
+    <a href="https://instagram.com/rlarkdms724" rel="nofollow">
         <img src="https://camo.githubusercontent.com/0231e2200eb5f385980769ec35e7ef23aab50fb29800f87e1dfe1c4371c42056/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f696e7374616772616d2e636f6d2f6c65656a6965756e73322f" data-canonical-src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white&amp;link=https://instagram.com/rlarkdms724/" style="max-width: 100%;">
     </a>
 </div>
 
 </article>
+  </div>
